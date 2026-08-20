@@ -301,7 +301,7 @@ if __name__ == "__main__":
     main()
 ```
 ## OUTPUT :
-<img width="485" height="272" alt="image" src="https://github.com/user-attachments/assets/0528ea46-254f-46a5-bde3-1474413b7077" />
+<img width="476" height="409" alt="image" src="https://github.com/user-attachments/assets/b78faaf5-0a0d-4f69-b36e-7cf18e6f3c94" />
 <img width="485" height="272" alt="image" src="https://github.com/user-attachments/assets/2b2275a9-2255-4566-949e-c867696bf24f" />
 
 ## Result:
